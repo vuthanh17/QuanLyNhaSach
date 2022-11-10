@@ -1,0 +1,20 @@
+{ 
+    "_id" : NumberInt(0), 
+    "tenNXB" : "Văn học"
+}
+{ 
+    "_id" : NumberInt(1), 
+    "tenNXB" : "Kim Đồng"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "tenNXB" : "Nhà Xuất Bản Trẻ"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "tenNXB" : "Hội nhà văn"
+}
+{ 
+    "_id" : NumberInt(4), 
+    "tenNXB" : "Nhã Nam"
+}

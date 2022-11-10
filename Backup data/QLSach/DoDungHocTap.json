@@ -1,0 +1,36 @@
+{ 
+    "_id" : NumberInt(0), 
+    "tensanpham" : "Bút chì", 
+    "soluongton" : NumberInt(50), 
+    "giaban" : NumberInt(8000)
+}
+{ 
+    "_id" : NumberInt(1), 
+    "tensanpham" : "Bút bi đen", 
+    "soluongton" : NumberInt(50), 
+    "giaban" : NumberInt(4000)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "tensanpham" : "Bút bi xanh", 
+    "soluongton" : NumberInt(10), 
+    "giaban" : NumberInt(4000)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "tensanpham" : "Dập ghim", 
+    "soluongton" : NumberInt(9), 
+    "giaban" : NumberInt(23000)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "tensanpham" : "Vở Hồng Hà", 
+    "soluongton" : NumberInt(30), 
+    "giaban" : NumberInt(6000)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "tensanpham" : "Vở Campus", 
+    "soluongton" : NumberInt(40), 
+    "giaban" : NumberInt(10000)
+}

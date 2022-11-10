@@ -1,0 +1,42 @@
+{ 
+    "_id" : NumberInt(0), 
+    "tensanpham" : "Bút chì", 
+    "ngaylap" : ISODate("2019-12-11T15:27:01.728+0000"), 
+    "soluong" : NumberInt(2), 
+    "dongia" : NumberInt(16000)
+}
+{ 
+    "_id" : NumberInt(1), 
+    "tensanpham" : "Bút bi đen", 
+    "ngaylap" : ISODate("2020-12-23T05:45:36.757+0000"), 
+    "soluong" : NumberInt(1), 
+    "dongia" : NumberInt(4000)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "tensanpham" : "Bút bi đen", 
+    "ngaylap" : ISODate("2020-12-22T22:45:36.000+0000"), 
+    "soluong" : NumberInt(1), 
+    "dongia" : NumberInt(4000)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "tensanpham" : "Đất rừng phương nam", 
+    "ngaylap" : ISODate("2020-12-22T19:40:45.000+0000"), 
+    "soluong" : NumberInt(1), 
+    "dongia" : NumberInt(62000)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "tensanpham" : "Rừng Na Uy", 
+    "ngaylap" : ISODate("2020-12-22T12:40:45.000+0000"), 
+    "soluong" : NumberInt(2), 
+    "dongia" : NumberInt(134000)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "tensanpham" : "Dạy con làm giàu - Tập1", 
+    "ngaylap" : ISODate("2020-12-23T14:11:21.165+0000"), 
+    "soluong" : NumberInt(1), 
+    "dongia" : NumberInt(72000)
+}

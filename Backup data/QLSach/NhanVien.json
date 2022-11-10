@@ -1,0 +1,32 @@
+{ 
+    "_id" : NumberInt(0), 
+    "hoten" : "Nguyễn Minh Anh", 
+    "gioitinh" : "Nam", 
+    "namsinh" : NumberInt(1999), 
+    "luong" : NumberInt(2200000), 
+    "sdt" : "0123456789"
+}
+{ 
+    "_id" : NumberInt(1), 
+    "hoten" : "Vũ Anh", 
+    "gioitinh" : "Nam", 
+    "namsinh" : NumberInt(2000), 
+    "luong" : NumberInt(2000000), 
+    "sdt" : "2000654321"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "hoten" : "Hà My", 
+    "gioitinh" : "Nữ", 
+    "namsinh" : NumberInt(2000), 
+    "luong" : NumberInt(3000000), 
+    "sdt" : "2898475610"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "hoten" : "Nguyễn Ngọc Anh", 
+    "gioitinh" : "Nữ", 
+    "namsinh" : NumberInt(1998), 
+    "luong" : NumberInt(2500000), 
+    "sdt" : "6784329810"
+}

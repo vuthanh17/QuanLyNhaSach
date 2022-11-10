@@ -1,0 +1,16 @@
+{ 
+    "_id" : NumberInt(0), 
+    "tentheloai" : "Tiểu thuyết"
+}
+{ 
+    "_id" : NumberInt(1), 
+    "tentheloai" : "Truyện thiếu nhi"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "tentheloai" : "Truyện tranh"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "tentheloai" : "Giáo dục"
+}

@@ -1,0 +1,54 @@
+{ 
+    "_id" : NumberInt(0), 
+    "tensach" : "Cho tôi xin một vé đi tuổi thơ", 
+    "tacgia" : "Nguyễn Nhật Ánh", 
+    "theloai" : "Truyện thiếu nhi", 
+    "nhaxuatban" : "Nhà Xuất Bản Trẻ", 
+    "soluongton" : NumberInt(50), 
+    "giaban" : NumberInt(30000)
+}
+{ 
+    "_id" : NumberInt(1), 
+    "tensach" : "Đất rừng phương nam", 
+    "tacgia" : "Đoàn Giỏi", 
+    "theloai" : "Truyện thiếu nhi", 
+    "nhaxuatban" : "Kim Đồng", 
+    "soluongton" : NumberInt(19), 
+    "giaban" : NumberInt(62000)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "tensach" : "Chuyện con mèo dạy hải âu bay", 
+    "tacgia" : "Luis Sepúlveda", 
+    "theloai" : "Truyện thiếu nhi", 
+    "nhaxuatban" : "Hội nhà văn", 
+    "soluongton" : NumberInt(30), 
+    "giaban" : NumberInt(40000)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "tensach" : "Rừng Na Uy", 
+    "tacgia" : "Murakami Haruki", 
+    "theloai" : "Tiểu thuyết", 
+    "nhaxuatban" : "Nhã Nam", 
+    "soluongton" : NumberInt(18), 
+    "giaban" : NumberInt(67000)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "tensach" : "Conan tập10", 
+    "tacgia" : "Aoyama Gōshō", 
+    "theloai" : "Truyện tranh", 
+    "nhaxuatban" : "Kim Đồng", 
+    "soluongton" : NumberInt(10), 
+    "giaban" : NumberInt(16000)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "tensach" : "Dạy con làm giàu - Tập1", 
+    "tacgia" : "Robert T Kiyosaki", 
+    "theloai" : "Giáo dục", 
+    "nhaxuatban" : "Nhà Xuất Bản Trẻ", 
+    "soluongton" : NumberInt(9), 
+    "giaban" : NumberInt(72000)
+}
